@@ -4,12 +4,24 @@
 Lo que no tenemos y que necesitarémos:
   - strain gauge
   - dispositivo para medir ultrasonido
+  - pirometro optico
+  - papel cocina / paños
+
+
+
 
 Recordamos que la tensión (uniaxial) necesaria para romper la muestra, aplicando una fuerza P es la siguiente (en teoría) :
 
 $$\sigma=\frac{2P}{\pi DL}$$
 
 ![alt text](image.png)
+
+# DEBEMOS ESTIMAR
+Carga máxima estimada
+Desplazamiento máximo estimado
+Velocidad de desplazamiento deseada
+
+
 
 Nuestro caso : $D = 9$ cm, $L < 20$ cm
 
