@@ -17,9 +17,11 @@ $$\sigma=\frac{2P}{\pi DL}$$
 ![alt text](image.png)
 
 # DEBEMOS ESTIMAR
-Carga máxima estimada
-Desplazamiento máximo estimado
-Velocidad de desplazamiento deseada
+ - Carga máxima estimada
+
+ - Desplazamiento máximo estimado
+
+ - Velocidad de desplazamiento deseada
 
 
 
